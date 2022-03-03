@@ -9,3 +9,6 @@ We can catch and handle an exception with a try-except block:
 * try-except block may have more than one except block to handle several different types of exceptions.
 * Optional else block is executed only if there is no exception occurs in a try block. If any exception is raised, the else block will not be executed.
 * Optional finally block is used for clean up code. This block is always executed.
+
+
+![python-exception-handling](https://user-images.githubusercontent.com/86805669/156527725-c0b59f62-1c03-4c8d-9f5b-7692295c1ea8.png)
